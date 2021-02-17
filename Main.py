@@ -1,5 +1,5 @@
-from caserec.recommenders.rating_prediction.itemknn import ItemKNN
-from caserec.recommenders.rating_prediction.most_popular import MostPopular
+from caserec.recommenders.item_recommendation.itemknn import ItemKNN
+from caserec.recommenders.item_recommendation.most_popular import MostPopular
 from caserec.utils.cross_validation import CrossValidation
 
 db = 'u.data'
