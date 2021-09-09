@@ -27,7 +27,7 @@ resultados foram comparados utilizando as métricas implementadas no próprio fr
 ótima ferramenta, com algoritmos no estado da arte e com uma
 fácil utilização para a comunidade em geral. </p>
 
-O estudo de caso na integra pode ser visto [AQUI](./CaseRecommenderpdf).
+O estudo de caso na íntegra pode ser visto [AQUI](./CaseRecommender.pdf).
 
 ---
 	
