@@ -12,6 +12,24 @@
 
 <h1 align="center">CaseRecommender</h1>
 
+<p align="center"> Sistemas de recomendações estão sendo cada vez
+mais utilizados por diversas empresas para recomendar os
+melhores produtos para o seus clientes ao longo das últimas
+décadas. O estudo dessa área está em constante evolução e novos
+algoritmos vêm surgindo, com isso, a necessidade de frameworks
+para ajudar a desenvolver um sistema de recomendação vêm
+aumentando. Case Recommender é uma ferramenta implemen-
+tada em Python que possui algoritmos dos paradigmas baseado
+em conteúdo, colaborativo, não personalizado e o hı́brido. Esses
+algoritmos podem ser aplicados nos cenários de Item Recom-
+mendation e Rating Prediction. Um pequeno estudo de caso foi
+abordado, comparando os algoritmos ItemKNN e Most Popular
+nas bases de dados MovieLens e Anime Recommendation. Os
+resultados foram comparados utilizando as métricas implemen-
+tadas no próprio framework. Case Recommender se mostrou uma
+ótima ferramenta, com algoritmos no estado da arte e com uma
+fácil utilização para a comunidade em geral. </p>
+
 ---
 	
 ### Autor :technologist:
