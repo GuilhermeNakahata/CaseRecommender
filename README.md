@@ -33,7 +33,7 @@ O estudo de caso na íntegra pode ser visto [AQUI](./CaseRecommender.pdf).
 	
 ### Autor :technologist:
 
-Sendo desenvolvido por Guilherme Nakahata.
+Elaborado por Guilherme Nakahata.
 
 [![Linkedin Badge](https://img.shields.io/badge/-GuilhermeNakahata-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-henrique-de-souza-nakahata-637459187/) 
 [![Gmail Badge](https://img.shields.io/badge/-guilhermenakahata@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:GuilhermeNakahata@gmail.com)
