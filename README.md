@@ -10,7 +10,7 @@
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 	
 
-<h1 align="center">[Estudo de caso Case Recommender](./CaseRecommender.pdf)</h1>
+<h1 align="center">Estudo de caso Case Recommender</h1>
 
 <p align="center"> Sistemas de recomendações estão sendo cada vez
 mais utilizados por diversas empresas para recomendar os
@@ -26,6 +26,8 @@ nas bases de dados MovieLens e Anime Recommendation. Os
 resultados foram comparados utilizando as métricas implementadas no próprio framework. Case Recommender se mostrou uma
 ótima ferramenta, com algoritmos no estado da arte e com uma
 fácil utilização para a comunidade em geral. </p>
+
+O estudo de caso na integra pode ser visto [AQUI](./CaseRecommenderpdf).
 
 ---
 	
